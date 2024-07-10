@@ -3,7 +3,7 @@
 This project provides a detailed analysis of Amazon data to uncover trends and insights.
 
 
-![Logo](https://storage.googleapis.com/kaggle-datasets-images/1171594/1962459/4286614b1445e98e64cd302f9d01561a/dataset-cover.jpg?t=2021-04-27-10-24-29)
+![Logo](dataset-cover.jpg)
 
 
 ## 👩‍💻Project Overview
