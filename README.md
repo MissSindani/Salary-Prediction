@@ -1,6 +1,6 @@
 # 💸Salary Prediction
 
-This project provides a detailed analysis of Amazon data to uncover trends and insights.
+This project is a model that predicts how much employees should earn based on their years of experience.
 
 
 ![Logo](dataset-cover.jpg)
